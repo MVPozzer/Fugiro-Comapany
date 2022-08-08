@@ -1,0 +1,85 @@
+.corpo {
+
+    background-color: #201b2c;
+
+}
+
+
+
+.formulario {
+
+    margin-top: 100px;
+    width: 400px;
+    margin-left: 700px;
+    justify-content:center;
+    align-items: center;
+    position: fixed;
+    align-self: center;
+}
+
+.dentro-formulario {
+
+    border-radius: 10px;
+    background-color: #514869;
+    font-weight: 800;
+    font-size: 50px;
+    color:white;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px 80px;
+}
+
+
+
+
+legend {
+
+    font-size: 65px;
+
+}
+
+label {
+    font-size: 22px;
+    display: block;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    margin-top: 15px;
+    
+
+}
+
+input {
+    display: block;
+    border-color: black;
+    border-radius: 5px;
+    height: 22px;
+    
+}
+
+.Data {
+
+    height:22px;
+    width: 170px;
+    font-size: 18px;
+}
+
+
+.botao {
+
+    
+    font-size: 15px;
+    cursor: pointer;
+    width: 85%;
+    padding: 8px 0px;
+    margin: 15px;
+    border: none;
+    border-radius: 8px;
+    outline:none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color:#2b134b;
+    background: white;
+    box-shadow: 0px 0px 0px -20px #00ff8052;
+}
